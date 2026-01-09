@@ -1,2 +1,4 @@
 .env
 .learn
+# Ignore SQLite databases
+*.db
